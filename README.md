@@ -1,4 +1,4 @@
-# Sentiment_Analyze_With_Visualization
+# [Sentimental Analysis] Comprehensive Sentimental Analysis on Yelp Dataset
 Comprehensive Sentimental Analysis on Yelp_Dataset
 
 Download Yelp Dataset for the Large-Scale Analysis of the data including sentiments, distribution over years, distribution over a month.
